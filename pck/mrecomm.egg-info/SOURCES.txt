@@ -1,0 +1,8 @@
+setup.py
+mrecomm.egg-info/PKG-INFO
+mrecomm.egg-info/SOURCES.txt
+mrecomm.egg-info/dependency_links.txt
+mrecomm.egg-info/requires.txt
+mrecomm.egg-info/top_level.txt
+pck/__init__.py
+pck/recomm.py
